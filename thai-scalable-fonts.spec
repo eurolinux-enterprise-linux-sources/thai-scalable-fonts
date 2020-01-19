@@ -8,7 +8,7 @@
 
 Name:      %{fontname}-fonts
 Version:   0.5.0
-Release:   6%{?dist}
+Release:   7%{?dist}
 Summary:   Thai TrueType fonts
 Group:     User Interface/X
 License:   GPLv2+ and Bitstream Vera
@@ -237,6 +237,9 @@ done
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.5.0-7
+- Mass rebuild 2013-12-27
+
 * Fri Feb 15 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.5.0-6
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
